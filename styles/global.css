@@ -47,9 +47,10 @@ p {
 }
 
 ul {
-  padding: 2.4rem;
+  padding-left: 2.4rem;
   font-weight: 700;
-  color: var(--text-secondary); /* Esse "color" estava fora do bloco */
 }
 
-
+ul li::marker {
+  color: var(--text-secondary);
+}
