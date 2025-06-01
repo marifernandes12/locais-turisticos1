@@ -1,15 +1,13 @@
+
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-:root {
-  font-family: "Open Sans", sans-serif;
-}
-
 body {
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   padding: 8.8rem 8rem;
   background: var(--background-default);
 }
@@ -24,12 +22,12 @@ strong {
 }
 
 h1 {
-  font-size: 2.4rem;
+  font-size: 3.6rem;
   margin-block: 0.8rem 4.4rem;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 3.2rem;
   margin-block: 0.2rem 0.8rem;
 }
 
